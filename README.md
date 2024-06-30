@@ -12,7 +12,7 @@ $ npm install directory-tree-scheme
 
 For example, we have a directory called photos that looks like this:
 <br>
-![Photos directory screenshot](example.png)
+![Photos directory screenshot](https://github.com/Dcfgvy/directory-tree/raw/main/example.png)
 
 ```ts
 import { build_scheme } from "directory-tree-scheme";
