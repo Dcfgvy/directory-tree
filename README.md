@@ -11,6 +11,7 @@ $ npm install directory-tree-scheme
 ## Usage
 
 For example, we have a directory called photos that looks like this:
+<br>
 ![Photos directory screenshot](example.png)
 
 ```ts
