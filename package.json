@@ -1,0 +1,27 @@
+{
+  "name": "directory-tree-scheme",
+  "version": "1.0.1",
+  "description": "Creates a plain text scheme representing the directory tree.",
+  "keywords": [
+    "directory",
+    "tree",
+    "folder",
+    "scheme"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Kusliy - tg @ivankkkf",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.9"
+  },
+  "dependencies": {
+    "directory-tree": "^3.5.1"
+  }
+}
