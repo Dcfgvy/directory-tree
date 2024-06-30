@@ -1,7 +1,7 @@
 {
   "name": "directory-tree-scheme",
-  "version": "1.0.2",
-  "description": "Creates a plain text scheme representing the directory tree.",
+  "version": "1.0.3",
+  "description": "Creates a plain text scheme or a JS object representing the directory tree.",
   "keywords": [
     "directory",
     "tree",

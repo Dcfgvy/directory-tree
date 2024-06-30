@@ -1,6 +1,6 @@
 # directory-tree-scheme
 
-Creates a text scheme representing the directory tree. This package is an improvement of [directory-tree by @mihneadb](https://www.npmjs.com/package/directory-tree).
+Creates a plain text scheme or a JS object representing the directory tree. This package is an improvement of [directory-tree by @mihneadb](https://www.npmjs.com/package/directory-tree).
 
 ## Install
 
